@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc0a78a0-685f-4de6-b95e-a181c8c72435" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/xxxx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/portrait1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ttt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/w1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/w2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/w3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/w4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/个人空间.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/主页.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/爱上读书--首页.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="mypage.iws" />
@@ -27,8 +39,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="67" column="59" selection-start-line="67" selection-start-column="59" selection-end-line="67" selection-end-column="59" />
+            <state relative-caret-position="225">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -47,8 +59,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="5575" selection-start-line="0" selection-start-column="5575" selection-end-line="0" selection-end-column="5575" />
+            <state relative-caret-position="435">
+              <caret line="0" column="10768" selection-start-line="0" selection-start-column="10755" selection-end-line="0" selection-end-column="10768" />
               <folding />
             </state>
           </provider>
@@ -77,8 +89,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="71" />
-    <option name="y" value="42" />
+    <option name="x" value="105" />
+    <option name="y" value="27" />
     <option name="width" value="1366" />
     <option name="height" value="741" />
   </component>
@@ -154,20 +166,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mypage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mypage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -425,7 +423,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="42" width="1366" height="741" extended-state="1" />
+    <frame x="105" y="27" width="1366" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14055637" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -598,14 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5575" selection-start-line="0" selection-start-column="5575" selection-end-line="0" selection-end-column="5575" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="566">
@@ -614,10 +604,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="0" column="10768" selection-start-line="0" selection-start-column="10755" selection-end-line="0" selection-end-column="10768" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="67" column="59" selection-start-line="67" selection-start-column="59" selection-end-line="67" selection-end-column="59" />
+        <state relative-caret-position="225">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
           <folding />
         </state>
       </provider>
